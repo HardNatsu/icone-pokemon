@@ -1,2 +1,2 @@
 # icone-pokemon
-Icone free of types pokemon for roll20
+Icone free of types pokemon in italy for roll20
